@@ -32,7 +32,6 @@ def conversion():
 
     bidPrice = ratesByCode[currency_code]["bid"]
     
-    conv= " "
     conv = float(quantity) * bidPrice
     return render_template("kalk.html", conv=conv, bid=bidPrice, quantity=quantity)
 
