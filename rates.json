@@ -1,0 +1,76 @@
+{
+"rates": [
+    {
+        "currency":"dolar amerykański",
+        "code":"USD",
+        "bid":4.2010,
+        "ask":4.2858
+    },
+    {
+        "currency":"dolar australijski",
+        "code":"AUD",
+        "bid":3.1255,
+        "ask":3.1887
+    },
+    {
+        "currency":"dolar kanadyjski",
+        "code":"CAD",
+        "bid":3.3359,
+        "ask":3.4033
+    },
+    {
+        "currency":"euro",
+        "code":"EUR",
+        "bid":4.6354,
+        "ask":4.7290
+    },
+    {
+        "currency":"forint (Węgry)",
+        "code":"HUF",
+        "bid":0.012484,
+        "ask":0.012736
+    },
+    {
+        "currency":"frank szwajcarski",
+        "code":"CHF",
+        "bid":4.5058,
+        "ask":4.5968
+    },
+    {
+        "currency":"funt szterling",
+        "code":"GBP",
+        "bid":5.5657,
+        "ask":5.6781
+    },
+    {
+        "currency":"jen (Japonia)",
+        "code":"JPY",
+        "bid":0.034784,
+        "ask":0.035486
+    },
+    {
+        "currency":"korona czeska",
+        "code":"CZK",
+        "bid":0.1876,
+        "ask":0.1914
+    },
+    {
+        "currency":"korona duńska",
+        "code":"DKK",
+        "bid":0.6231,
+        "ask":0.6357
+    },
+    {
+        "currency":"korona norweska",
+        "code":"NOK",
+        "bid":0.4807,
+        "ask":0.4905
+    },
+    {
+        "currency":"korona szwedzka",
+        "code":"SEK",
+        "bid":0.4464,
+        "ask":0.4554
+    }
+   ]
+}
